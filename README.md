@@ -69,6 +69,8 @@ weighted avg  0.9984    0.9976    0.9979    56962
 We plot the reconstruction error distributions for normal vs. fraud transactions and mark the decision threshold.  
 Fraudulent transactions tend to have higher reconstruction errors than normal transactions.
 
-![Reconstruction Error Distribution]
+![Reconstruction Error Distribution](image/reconstruction_error.png)
 
- [   33    65]]
+## How to Run
+- Open the notebook `anomaly-detection-credit-card-fraud` in Kaggle or local Jupyter.
+- Run all the cells. 
